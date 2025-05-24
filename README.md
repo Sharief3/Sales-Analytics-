@@ -10,6 +10,7 @@ To analyze historical sales data of Awesome Chocolate products in order to uncov
 - low box shipment analysis
 - month-on-month / year-on-year changes
 - save and publish the project
-##Dashboard
-https://github.com/Sharief3/Sales-Analytics-/blob/main/Dashboard.png
+- 
+## Dashboard
+(Dashboard.png)(https://github.com/Sharief3/Sales-Analytics-/blob/main/Dashboard.png)
 

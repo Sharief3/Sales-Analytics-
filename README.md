@@ -11,5 +11,5 @@ To analyze historical sales data of Awesome Chocolate products in order to uncov
 - month-on-month / year-on-year changes
 - save and publish the project
 ##Dashboard
-Dashboard.png
+https://github.com/Sharief3/Sales-Analytics-/blob/main/Dashboard.png
 

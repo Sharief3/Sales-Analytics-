@@ -10,5 +10,6 @@ To analyze historical sales data of Awesome Chocolate products in order to uncov
 - low box shipment analysis
 - month-on-month / year-on-year changes
 - save and publish the project
-
+##Dashboard
+Dashboard.png
 

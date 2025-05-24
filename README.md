@@ -14,3 +14,22 @@ To analyze historical sales data of Awesome Chocolate products in order to uncov
 ## Dashboard
 ![Dashboard](https://github.com/user-attachments/assets/84bc5098-8569-4271-8dea-1f682c37a299)
 
+## Process
+-	Awesome Chocolate Data Model
+-	Data load to Powe Bi
+-	Star Schema creation  
+-	Creating DAX measures
+-	Using the calendar table to make “time intelligence” measures
+-	Wireframe design for our dashboard
+-	Dashboard page design and theme in Power Bi
+-	KPI cards for the Power Bi sales analytics dashboard
+-	Fixing the MoM calculation Dax
+-	Adding reference labels for the KPI cards
+-	Formatting the KPI section
+-	Profit% Gauge chart
+-	Dynamic trend analysis chart(with field parameters)
+-	Shipment analysis (histogram + zoom slider)
+-	Sales person performance – product performance
+-	Filter panel design & setting Github portfolio page
+
+

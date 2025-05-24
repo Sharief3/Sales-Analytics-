@@ -41,3 +41,9 @@ To analyze historical sales data of Awesome Chocolate products in order to uncov
 . product dimension
 
 
+## Conclusion
+
+ Our analysis of chocolate sale data reveals clear trends in individual performance, profit margin, and product volume distribution lower box shipment (LBS%). Top performing individuals consistently combine high sale volume with strong profit margins and products.
+
+
+

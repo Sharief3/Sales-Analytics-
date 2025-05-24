@@ -12,5 +12,5 @@ To analyze historical sales data of Awesome Chocolate products in order to uncov
 - save and publish the project
 - 
 ## Dashboard
-(Dashboard.png)(https://github.com/Sharief3/Sales-Analytics-/blob/main/Dashboard.png)
+![Dashboard](https://github.com/user-attachments/assets/84bc5098-8569-4271-8dea-1f682c37a299)
 

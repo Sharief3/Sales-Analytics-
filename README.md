@@ -32,4 +32,12 @@ To analyze historical sales data of Awesome Chocolate products in order to uncov
 -	Sales person performance – product performance
 -	Filter panel design & setting Github portfolio page
 
+# The Data Models
+
+. shipments
+. geographical dimension
+. sales person dimension
+. calendar
+. product dimension
+
 
